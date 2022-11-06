@@ -24,10 +24,7 @@ section, summary, time, mark, audio, video {
 	font-size: 100%;
 	font: inherit;
 	vertical-align: baseline;}
-	
-p {
-  font-size: 0.75em;
-}
+
 
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
