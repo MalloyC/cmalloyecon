@@ -1,3 +1,5 @@
+
+
 @import url("fontawesome-all.min.css");
 @import url("https://fonts.googleapis.com/css?family=Lato:400,400italic,700,700italic|Source+Code+Pro:400");
 
@@ -24,7 +26,6 @@ section, summary, time, mark, audio, video {
 	font-size: 100%;
 	font: inherit;
 	vertical-align: baseline;}
-
 
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
@@ -148,17 +149,17 @@ input, select, textarea {
 		}
 
 	h2 {
-		font-size: 1.5em;
+		font-size: 2em;
 		line-height: 1.5em;
 	}
 
 	h3 {
-		font-size: 1.25em;
+		font-size: 1.75em;
 		line-height: 1.5em;
 	}
 
 	h4 {
-		font-size: 1.15em;
+		font-size: 1.25em;
 		line-height: 1.5em;
 	}
 
